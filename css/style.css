@@ -15,7 +15,7 @@ margin:0%;
 
  }
 
-@media screen and (max-width: 600px) {#headerhome{background: url(../images/Senza.jpg) no-repeat center;  
+@media screen and (max-width: 600px) {#headerhome{background: url(../images/Senza.jpg) no-repeat center;background-size: 100%;   
  
 
 padding-top: 20% ;
@@ -95,7 +95,7 @@ width: 100%;}
 
 
 
-@media screen and (max-width: 600px) {#spiegazione{padding-top: 25px ; padding-bottom: 25px; font-size:8px; } 
+@media screen and (max-width: 600px) {#spiegazione{padding:25% 1%; font-size:8px; } 
  
  }
 
