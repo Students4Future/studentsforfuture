@@ -1,0 +1,264 @@
+
+
+
+header {text-align: center !important;}
+
+#headerhome{
+background: url(../images/sek.jpg) no-repeat center; 
+background-size: 100%;
+max-width: 100%;
+height: auto; 
+text-align: center;
+padding-bottom: 0%;
+border:0%;
+margin:0%; 
+
+ }
+
+@media screen and (max-width: 600px) {#headerhome{background: url(../images/senza.jpg) no-repeat center;
+
+padding-top: 30% ;
+
+padding-bottom: 10%;
+
+
+
+border:0%;
+margin:0%; 
+
+
+ }
+
+header{background: url(none); padding-top:20%;} }
+
+
+
+#aboutbnt{color:white;}
+#aboutbnt:hover{color:grey; background-color: white;}
+
+#studyplanbnt{color:white;}
+#studyplanbnt:hover{color:grey; background-color: white;}
+
+
+#abus{color:white;}
+#abus:hover{color:grey; background-color: white;}
+
+
+#cont{color:white;}
+#cont:hover{color:grey; background-color: white;}
+
+#myBtn{color:white;}
+#myBtn:hover{color:grey; background-color: white;}
+
+#homebtn{color:white;}
+#homebtn:hover{color:grey; background-color: white;}
+
+
+
+
+
+
+#playlist{color: white;font-family: 'Nanum Gothic', sans-serif;
+ background-color: #7d8eaa;}
+ #playlist:hover{background-color: #95a3ba;}
+
+ #login{color: white; background-color: #ae6132;font-family: 'Nanum Gothic', sans-serif;}
+ #login:hover{background-color: #c27140;}
+
+
+
+}
+#menu {color: #33352b;
+border: 0%;
+padding: 0%;
+margin: 0%;
+width: 100%;}
+
+#menu:active{border-color:white;}
+
+
+
+
+
+
+#titolone{padding-top: 20% ;
+	padding-bottom: 12%;
+ text-align: center;
+ margin-top: 0%;
+ border-top: 0%;
+}
+
+
+#spiegazione{ margin-bottom: 0%; background-color:white; padding: 9% 0%;
+}
+
+
+#students{color: white; background-color:  #a8c256;font-family: 'Nanum Gothic', sans-serif;}
+#students:hover{background-color:#b4d647;}
+
+
+
+#carousel{background: url(../images/forest-19.jpg) no-repeat center fixed; background-size: 100%; 
+height: 90vh; 
+
+padding-left: 1%; 
+ padding-right: 1%;
+ height:550; 
+ padding-bottom: 10%; 
+ padding-top: 10%;}
+
+@media screen and (max-width: 600px) {#carousel{background: url(none)
+}
+} 
+
+
+.carousel-indicators li:hover{ background-color:  #a8c256 ; box-shadow: 0px 5px 5px #FFFFE0 ;
+  
+}
+
+
+
+
+
+
+
+
+#tabl{color: #3f494e; border-color:#3f494e; font-family: 'Nanum Gothic', sans-serif;}
+ #tabl:hover{background-color: #7d8eaa; color:white;border-color: #7d8eaa ;}
+
+ #tabv{color: #3f494e; border-color:#3f494e;font-family: 'Nanum Gothic', sans-serif;}
+ #tabv:hover{background-color: #7d8eaa; color:white; border-color:#7d8eaa;}
+
+
+#forest{color: white; background-color:#7d8eaa;  border-color:grey;font-family: 'Nanum Gothic', sans-serif;}
+ #forest:hover{background-color: #95a3ba;border-color:#95a3ba;}
+
+
+
+
+#cronometro{background: url(../images/forest-19.jpg) no-repeat center fixed; 
+height: 90vh; 
+
+padding-left: 1%; 
+ padding-right: 1%;
+ height:550; 
+ padding-bottom: 13%; 
+ padding-top: 12%;}
+
+
+
+#timer{background-color: transparent opacity:0.8; font-family: 'Nanum Gothic', sans-serif;
+
+padding:5% 0px;
+}
+
+@media screen and (max-width: 600px) {.wrapper{max-width: 100%;}
+.carousel-item{height:400px;}} 
+
+
+
+
+
+#stplan{background-color:white;font-family: 'Nanum Gothic', sans-serif;
+	color: #5a626f;
+padding:10% 10% 10% 10%;
+border-bottom: 20%;
+}
+
+
+
+
+
+
+#commenti{background-color:white; font-family: 'Nanum Gothic', sans-serif;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	padding-left: 5%;
+	padding-right: 5%;
+margin: 0%; 
+max-width: 100%;
+max-height:100%;
+}
+
+@media screen and (max-width: 600px){ #commenti {padding-left: 3% ;padding-right: 3%;} }
+
+
+ #sub{color: white; background-color:#ae6132; border-radius: 7%;}
+ #sub:hover{background-color: #c27140;}
+
+
+
+
+footer {background-color: #3f494e;font-family: 'Nanum Gothic', sans-serif;
+color: white;
+margin: 0em;
+border:0em;
+padding: 0em;
+}
+
+
+
+
+#ulsoc{text-align: center;}
+@media screen and (max-width: 600px){#ulsoc{padding-top: 10%;} }
+
+#insta{width:70%;height:auto;padding:2%;max-width: 50px;}
+@media screen and (max-width: 600px){#insta{max-width:60%;} }
+
+#faceb{width:60%;height:auto;max-width: 50px;}
+@media screen and (max-width: 600px){#faceb{max-width:60%;} }
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+
+
+/*ABOUT.HTML*/
+
+#aboutex{background:url(../images/ry.jpg) no-repeat center fixed; background-size: 100%;
+padding-top: 5%;
+
+color:white;
+}
+@media screen and (max-width: 600px){#aboutex{background:url(../images/ry.jpg) no-repeat center scroll; background-size:100%;}}
+
+
+
+
+#lan{
+
+	padding: 18% 10%; 
+	color:white;
+	background:url(../images/startup.jpg) no-repeat center;
+background-size: 100%;
+max-width: 100%;
+}
+@media screen and (max-width: 600px){#lan{background: url(none);color:#69696d;}}
+
+#btndownload{color: white; border:none;background-color:#a8c256;}
+ #btndownload:hover{background-color:#b4d647;}
+
+
+#btndonate{color: white; border:none;background-color:#a8c256;}
+#btndonate:hover{background-color:#b4d647 ;}
+;}
+
+
+
+
+
+/*SIGN_IN*/
+
+
+#sign{padding:10%;font-family: 'Nanum Gothic', sans-serif;}
+#signin{background-color: #ae6132 ; color:white;font-family: 'Nanum Gothic', sans-serif;}
+#signin:hover{background-color:#c27140; color: white;}
+
+#prova { padding-top: 7%; 
+	text-align: left;font-family: 'Nanum Gothic', sans-serif;
+
+}
+
