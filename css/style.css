@@ -20,7 +20,7 @@ margin:0%;
 
 padding-top: 20% ;
 
-padding-bottom: 30%;
+padding-bottom: 20%;
 
 
 
@@ -30,7 +30,23 @@ margin:0%;
 
  }
 
+
+
+
+
 header{background: url(none); padding-top:20%;} }
+
+
+#bigtitle{color: white;font-size:123px;font-family: 'Mulish', sans-serif;}
+
+
+
+
+@media screen and (max-width: 600px) {#bigtitle{font-size:60px;}
+
+
+ }
+
 
 
 
