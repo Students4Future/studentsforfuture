@@ -15,10 +15,10 @@ margin:0%;
 
  }
 
-/*@media screen and (max-width: 600px) {#headerhome{background: url(../images/senza.jpg) no-repeat center;  background-size: 100%; 
+*@media screen and (max-width: 600px) {#headerhome{background: url(../images/senza.jpg) no-repeat center;  background-size: 100%; 
 
 padding-top: 30% ;
-
+height: 90vh;
 padding-bottom: 10%;
 
 
@@ -27,7 +27,7 @@ border:0%;
 margin:0%; 
 
 
- }*/
+ }
 
 header{background: url(none); padding-top:20%;} }
 
