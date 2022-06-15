@@ -251,13 +251,10 @@ color:white;
 
 #frase{padding:10% 0% 8% 0%; color:white; font-family: 'Nanum Gothic', sans-serif; text-align: center;}
 
-@media screen and (max-width: 600px){#frase{padding:20% 0% 8% 0%;}}
+@media screen and (max-width: 600px){#frase{padding-top:30%;}}
 
 
 
-
-#go{color:#d3d3d3;}
-@media screen and (max-width: 600px){#go{ color:#d3d3d3; opacity:0.1; font-size: 2px;}
 
 
 
