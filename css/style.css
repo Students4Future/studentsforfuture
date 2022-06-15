@@ -249,6 +249,9 @@ color:white;
 @media screen and (max-width: 600px){#aboutex{background:url(../images/ry.jpg) no-repeat center scroll; background-size:100%;padding-bottom:0%;}}
 
 
+#frase{padding:10% 0% 8% 0%; color:white; font-family: 'Nanum Gothic', sans-serif; text-align: center;}
+@media screen and (max-width: 600px){#frase{padding:10% 0% 0% 0%;}}
+
 
 
 #lan{
