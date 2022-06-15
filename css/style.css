@@ -38,10 +38,6 @@ header{background: url(none); padding-top:20%;} }
 
 
 #bigtitle{color: white;font-size:123px;font-family: 'Mulish', sans-serif;}
-
-
-
-
 @media screen and (max-width: 600px) {#bigtitle{font-size:60px;}
 
 
@@ -249,7 +245,7 @@ padding-top: 5%;
 
 color:white;
 }
-@media screen and (max-width: 600px){#aboutex{background:url(../images/ry.jpg) no-repeat center scroll; background-size:100%;}}
+@media screen and (max-width: 600px){#aboutex{background:url(../images/ry.jpg) no-repeat center scroll; background-size:100%;padding-bottom:7%;}}
 
 
 
